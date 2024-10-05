@@ -74,8 +74,9 @@
   </a>
 
 <a href="http://coderirfan.me/">
-  <img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="Website Badge" />
+  <img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Badge" />
 </a>
+
 
 </div>
 
